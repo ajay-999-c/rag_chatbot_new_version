@@ -1,0 +1,22 @@
+{
+  "total_documents": 584,
+  "total_sections": 15,
+  "section_distribution": {
+    "About Institute": 2,
+    "Admission Process": 2,
+    "Certification": 9,
+    "Class Schedule": 4,
+    "Contact Info": 1,
+    "Course Details": 28,
+    "Course Fees": 5,
+    "Courses Offered": 249,
+    "Demo Classes": 2,
+    "Eligibility": 10,
+    "Facilities": 137,
+    "Location": 1,
+    "Mode Of Learning": 5,
+    "Placements": 128,
+    "Trainers Info": 1
+  },
+  "build_timestamp": "2025-05-17 15:02:03"
+}
